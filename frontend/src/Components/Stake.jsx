@@ -94,8 +94,8 @@ export const Stake = () => {
     <Thead>
       <Tr>
         <Th>Address</Th>
-        <Th>Quantity</Th>
-        <Th>Pending Balance</Th>
+        <Th>Total Diverse Owned</Th>
+        <Th>Allocated Fanverse Token %</Th>
       </Tr>
     </Thead>
     <Tbody>
