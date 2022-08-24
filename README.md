@@ -1,1 +1,1 @@
-# DegenProject
+# DegenProjects
